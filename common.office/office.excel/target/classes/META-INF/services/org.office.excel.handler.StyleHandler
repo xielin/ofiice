@@ -1,0 +1,9 @@
+org.office.excel.handler.style.Alignment
+org.office.excel.handler.style.Border
+org.office.excel.handler.style.ColumnWidth
+org.office.excel.handler.style.FontBoldweight
+org.office.excel.handler.style.FontHeightInPoints
+org.office.excel.handler.style.FontName
+org.office.excel.handler.style.ForeGroundColor
+org.office.excel.handler.style.Format
+org.office.excel.handler.style.WrapText
